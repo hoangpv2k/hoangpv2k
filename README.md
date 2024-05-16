@@ -25,7 +25,9 @@ You can see my resume or download from the link below: <br />
 (4) Water Sort Puzzle: <br />
 (5) Triple Tile: <br />
 (6) Pull The Pin: <br />
-(7) Match Master 3D: <br />
+(7) Bottle Jump 3D: <br />
+(8) Match Master 3D: <br />
+(9) <br/>
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
