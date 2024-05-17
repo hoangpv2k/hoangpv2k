@@ -23,11 +23,10 @@ You can see my resume or download from the link below: <br />
 (2) Mrs Lemon School: Scary mod: [CH PLAY]([Mrs Lemon School: Scary mod](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US))<br />
 (3) Alphabet Run: Letter Go: [CH PLAY]([Alphabet Run: Letter Go](https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US))<br />
 (4) Water Sort Puzzle: <br />
-(5) Triple Tile: <br />
+(5) Triple Tile: Doggo Go <br />
 (6) Pull The Pin: <br />
 (7) Bottle Jump 3D: <br />
 (8) Match Master 3D: <br />
-(9) <br/>
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
