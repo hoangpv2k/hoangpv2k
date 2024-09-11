@@ -10,7 +10,7 @@
 - 📫 How to reach me: phanviethoang187@gmail.com
  
 ## Có thể các bạn đã biết đến mình ở: 
- <a href="https://www.youtube.com/channel/UCew1eHxZinXZqmN58kCI28Q" target="_blank"><img src=""></a> này
+ <a href="[https://www.youtube.com/channel/UCew1eHxZinXZqmN58kCI28Q](https://www.youtube.com/@viethoangphan3575)" target="_blank"><img src=""></a> này
 
 📝 **Here's my CVs** <br />
 You can see my resume or download from the link below: <br />
