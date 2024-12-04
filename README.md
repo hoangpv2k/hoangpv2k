@@ -30,6 +30,8 @@ You can see my resume or download from the link below: <br />
 (10) Unscrew Color Jam <br />
 (11) Bus Jam <br />
 (12) Hexa Sort Jam <br />
+(13) Good Sorting <br />
+(14) Tangle Rope <br />
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
