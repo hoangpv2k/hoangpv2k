@@ -17,15 +17,12 @@
 - 🌐 [YouTube Channel](https://www.youtube.com/@viethoangphan3575)
 - 💬 Feel free to reach out for game collaborations!
 
- 
-## Có thể các bạn đã biết đến mình ở: <a href="https://www.youtube.com/@viethoangphan3575" target="_blank">Viethoangphan</a>
 <!--
 📝 **Here's my CVs** <br />
 You can see my resume or download from the link below: <br />
 <a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
 <a href="" download="">MyCV-ENG.pdf (English)</a> <br />
 -->
-
 
  | 🎮 **Public Game Projects** | 🌐 **Link** |
 |----------------------------|-------------------------|
@@ -45,7 +42,6 @@ You can see my resume or download from the link below: <br />
 |Tangle Rope(base)||
 |Delete One Part(base)||
 |Draw One Part(base)||
-
 
 ## 🛠️ Tools & Technologies
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
