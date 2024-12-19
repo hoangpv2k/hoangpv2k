@@ -10,12 +10,12 @@
 - 📫 How to reach me: phanviethoang187@gmail.com
  
 ## Có thể các bạn đã biết đến mình ở: <a href="https://www.youtube.com/@viethoangphan3575" target="_blank">Viethoangphan</a>
-/*
+<!--
 📝 **Here's my CVs** <br />
 You can see my resume or download from the link below: <br />
 <a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
 <a href="" download="">MyCV-ENG.pdf (English)</a> <br />
-*/
+-->
  
 🎮 **Here's my public games project** <br />
 (1) Gangster City: Urban Crime: [CH PLAY]([Gangster City: Urban Crime](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US))<br />
