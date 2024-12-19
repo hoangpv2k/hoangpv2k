@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub" alt="Banner">
+</p>
 ![Git][git-shield]
 ![Unity][unity-shield]
  <h1 align="left">
