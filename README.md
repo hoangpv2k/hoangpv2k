@@ -63,10 +63,7 @@ You can see my resume or download from the link below: <br />
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangpv2k&theme=radical" alt="Streak Stats">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats"> 
 </p>
 
 <p align="center">
