@@ -63,12 +63,10 @@ You can see my resume or download from the link below: <br />
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats"> 
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages">
+  </div>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 
  
