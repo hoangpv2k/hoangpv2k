@@ -2,8 +2,6 @@
   <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub" alt="Banner">
 </p>
 
-![Git][git-shield]
-![Unity][unity-shield]
  <h1 align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
 </h1>
@@ -53,7 +51,6 @@ You can see my resume or download from the link below: <br />
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ****
 
 ## 📊 GitHub Stats
@@ -61,13 +58,4 @@ You can see my resume or download from the link below: <br />
   <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoangpv2k&theme=radical" alt="GitHub Streak">
-</p>
-
-
-
-[git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
  
