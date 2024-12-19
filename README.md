@@ -28,11 +28,12 @@ You can see my resume or download from the link below: <br />
 (8) Match Master 3D: <br />
 (9) Melon Maker: Fruit Game <br />
 (10) Unscrew Color Jam: [CH PLAY]([Unscrew Color Jam](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en))<br />
-(11) Bus Jam <br />
+(11) Bus Jam(base) <br />
 (12) Hexa Sort Jam <br />
-(13) Good Sorting <br />
-(14) Tangle Rope <br />
-
+(13) Good Sorting(base) <br />
+(14) Tangle Rope(base) <br />
+(15) Delete One Part(base) <br />
+(16) Draw One Part(base) <br />
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
  
