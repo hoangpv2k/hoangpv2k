@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub" alt="Banner">
 </p>
+
 ![Git][git-shield]
 ![Unity][unity-shield]
  <h1 align="left">
@@ -19,7 +20,28 @@ You can see my resume or download from the link below: <br />
 <a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
 <a href="" download="">MyCV-ENG.pdf (English)</a> <br />
 -->
- 
+
+
+ | 🎮 **Public Game Projects** | 🌐 **Link** |
+|----------------------------|-------------------------|
+| Gangster City: Urban Crime | [Google Play](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US) |
+| Mrs Lemon School: Scary mod | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US) |
+| Alphabet Run: Letter Go     | [Google Play](https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US) |
+| Unscrew Color Jam          | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en) |
+|Water Sort Puzzle||
+|Triple Tile: Doggo Go||
+|Pull The Pin||
+|Bottle Jump 3D||
+|Match Master 3D||
+|Melon Maker: Fruit Game||
+|Bus Jam(base)||
+|Hexa Sort Jam||
+|Good Sorting(base)||
+|Tangle Rope(base)||
+|Delete One Part(base)||
+|Draw One Part(base)||
+
+
 🎮 **Here's my public games project** <br />
 (1) Gangster City: Urban Crime: [CH PLAY]([Gangster City: Urban Crime](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US))<br />
 (2) Mrs Lemon School: Scary mod: [CH PLAY]([Mrs Lemon School: Scary mod](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US))<br />
