@@ -3,6 +3,10 @@
 </p>
 
 <h1 align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
+</h1>
+
+<h1 align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
 </h1>
 
@@ -65,5 +69,17 @@ You can see my resume or download from the link below: <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangpv2k&theme=radical" alt="Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 
  
