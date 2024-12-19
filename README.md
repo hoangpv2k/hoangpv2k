@@ -8,10 +8,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
 </h1>
 
-- 👋 Hi, I’m @hoangpv2k
-- 👀 I’m game developer
-- 💞️ I’m looking to collaborate on making video games
-- 📫 How to reach me: phanviethoang187@gmail.com
+## 🌟 About Me
+- 🧑‍💻 I'm a **Game Developer**
+- 🎨 Passionate about creating **fun and engaging games**
+- 🌎 Based in **Vietnam**
+- 💬 Ask me about Unity, C#, or game mechanics!
+
+## ✨ Let's Connect!
+- 📧 Email: [phanviethoang187@gmail.com](mailto:phanviethoang187@gmail.com)
+- 🌐 [YouTube Channel](https://www.youtube.com/@viethoangphan3575)
+- 💬 Feel free to reach out for game collaborations!
+
  
 ## Có thể các bạn đã biết đến mình ở: <a href="https://www.youtube.com/@viethoangphan3575" target="_blank">Viethoangphan</a>
 <!--
@@ -42,23 +49,24 @@ You can see my resume or download from the link below: <br />
 |Draw One Part(base)||
 
 
-🎮 **Here's my public games project** <br />
-(1) Gangster City: Urban Crime: [CH PLAY]([Gangster City: Urban Crime](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US))<br />
-(2) Mrs Lemon School: Scary mod: [CH PLAY]([Mrs Lemon School: Scary mod](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US))<br />
-(3) Alphabet Run: Letter Go: [CH PLAY]([Alphabet Run: Letter Go](https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US))<br />
-(4) Water Sort Puzzle: <br />
-(5) Triple Tile: Doggo Go <br />
-(6) Pull The Pin: <br />
-(7) Bottle Jump 3D: <br />
-(8) Match Master 3D: <br />
-(9) Melon Maker: Fruit Game <br />
-(10) Unscrew Color Jam: [CH PLAY]([Unscrew Color Jam](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en))<br />
-(11) Bus Jam(base) <br />
-(12) Hexa Sort Jam <br />
-(13) Good Sorting(base) <br />
-(14) Tangle Rope(base) <br />
-(15) Delete One Part(base) <br />
-(16) Draw One Part(base) <br />
+## 🛠️ Tools & Technologies
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+****
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hoangpv2k&theme=radical" alt="GitHub Streak">
+</p>
+
+
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
