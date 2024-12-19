@@ -3,10 +3,6 @@
 </p>
 
 <h1 align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
-</h1>
-
-<h1 align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
 </h1>
 
@@ -64,12 +60,6 @@ You can see my resume or download from the link below: <br />
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ****
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
 
 ## 📊 GitHub Stats
 <p align="center">
