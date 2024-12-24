@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub" alt="Banner">
-</p>
-
 <h1 align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187" alt="Typing SVG" /></a>
 </h1>
