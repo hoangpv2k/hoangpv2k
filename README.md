@@ -36,9 +36,8 @@ You can see my resume or download from the link below: <br />
 | Unscrew Color Jam           | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en) | ![Preview](https://via.placeholder.com/150) |
 | Match Master 3D             | [Google Play](https://play.google.com/store/apps/details?id=com.sg.match3d.master.matchtriple) | ![Preview](https://via.placeholder.com/150) |
 | Hexa Stack                  | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack) | ![Preview](https://via.placeholder.com/150) | 
-
 -->
-https://play.google.com/store/apps/details?id=com.sg.hexastack
+
 | 🎮 **Other Games**   | 🌐 **Status** |
 |-----------------------|--------------|
 | Water Sort Puzzle     | Coming Soon  |
