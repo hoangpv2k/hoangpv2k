@@ -26,17 +26,8 @@ You can see my resume or download from the link below: <br />
 | Mrs Lemon School: Scary mod | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US) |
 | Alphabet Run: Letter Go     | [Google Play](https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US) |
 | Unscrew Color Jam          | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en) |
-
-<!--
-| 🎮 **Public Game Projects** | 🌐 **Link** | 🖼️ **Preview** |
-|-----------------------------|-------------------------|---------------|
-| Gangster City: Urban Crime  | [Google Play](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US) | ![Preview](https://via.placeholder.com/150) |
-| Mrs Lemon School: Scary mod | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US) | ![Preview](https://via.placeholder.com/150) |
-| Alphabet Run: Letter Go     | [Google Play](https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US) | ![Preview](https://via.placeholder.com/150) |
-| Unscrew Color Jam           | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en) | ![Preview](https://via.placeholder.com/150) |
-| Match Master 3D             | [Google Play](https://play.google.com/store/apps/details?id=com.sg.match3d.master.matchtriple) | ![Preview](https://via.placeholder.com/150) |
-| Hexa Stack                  | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack) | ![Preview](https://via.placeholder.com/150) | 
--->
+| Match Master 3D             | [Google Play](https://play.google.com/store/apps/details?id=com.sg.match3d.master.matchtriple) | 
+| Hexa Stack                  | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack) |
 
 | 🎮 **Other Games**   | 🌐 **Status** |
 |-----------------------|--------------|
