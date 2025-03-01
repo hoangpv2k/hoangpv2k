@@ -22,7 +22,7 @@ You can see my resume or download from the link below: <br />
 
  | 🎮 **Public Game Projects** | 🌐 **Link** |
 |----------------------------|-------------------------|
-| Gangster City: Urban Crime | [Google Play]([https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime)) |
+| Gangster City: Urban Crime | [Google Play](https://play.google.com/store/apps/details?id=negaxy.gangster.city.urban.crime&hl=en_US&gl=US](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
 | Mrs Lemon School: Scary mod | [Google Play]([https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod&hl=en_US&gl=US](https://apkpure.net/vn/horror-fruit-school-scary-mod/ngx.mrs.lemon.school.scary.mod)) | 
 | Alphabet Run: Letter Go     | [App Store]([https://play.google.com/store/apps/details?id=negaxy.alphabet.run.abc.letter.go&hl=vi&gl=US](https://apps.apple.com/us/app/letter-race-3d-run-merge/id1659174430)) |
 | Unscrew Color Jam          | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle&hl=en) |
