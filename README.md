@@ -20,7 +20,7 @@ You can see my resume or download from the link below: <br />
 <a href="" download="">MyCV-ENG.pdf (English)</a> <br />
 -->
 
- | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
+| 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
 | Mrs Lemon School: Scary mod      | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod)    |
@@ -29,17 +29,18 @@ You can see my resume or download from the link below: <br />
 | Unscrew Color Jam               | [App Store](https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi)              |
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
 | Hexa Stack                       | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack)                 |
-| 🎮 **Other Games**   | 🌐 **Status** | 🛠️ **Base Gameplay** | 📂 **Repository** |
-|-----------------------|--------------|----------------------|-------------------|
-| Water Sort Puzzle     | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Triple Tile           | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Pull The Pin(Home Pin)| Coming Soon  | ✅ Completed         | [Link](#)         |
-| Melon Fruit Game      | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Bus Jam               | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Good Sorting(base)    | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Delete One Part(base) | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Draw One Part(base)   | Coming Soon  | ✅ Completed         | [Link](#)         |
-| Color Block Jam       | Coming Soon  | ✅ Completed         | [Link](#)         |
+
+| 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
+|----------------------------------|-----------------|-------------------------|---------------------|
+| Water Sort Puzzle                | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Triple Tile                      | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Pull The Pin (Home Pin)          | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Melon Fruit Game                 | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Bus Jam                          | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Good Sorting (base)              | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Delete One Part (base)           | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Draw One Part (base)             | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
 
 ## 🛠️ Tools & Technologies
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
