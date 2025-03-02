@@ -9,12 +9,6 @@
 - 🎨 Passionate about creating **fun and engaging games**
 - 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
-## 🚀 Welcome to My GitHub Profile!
-I'm **Hoangpv**, a passionate **Game Developer** from **Vietnam**. I love creating fun and engaging games using Unity and C#. Let's build something amazing together!
-## ✨ Let's Connect!
-- 📧 Email: [phanviethoang187@gmail.com](mailto:phanviethoang187@gmail.com)
-- 🌐 [YouTube Channel](https://www.youtube.com/@viethoangphan3575)
-- 💬 Feel free to reach out for game collaborations!
 
 <!--
 📝 **Here's my CVs** <br />
@@ -59,20 +53,7 @@ You can see my resume or download from the link below: <br />
   </div>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📬 Let's Connect!
-<p align="left">
-  <a href="mailto:phanviethoang187@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.youtube.com/@viethoangphan3575">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
- 
+ ## ✨ Let's Connect!
+- 📧 Email: [phanviethoang187@gmail.com](mailto:phanviethoang187@gmail.com)
+- 🌐 [YouTube Channel](https://www.youtube.com/@viethoangphan3575)
+- 💬 Feel free to reach out for game collaborations!
