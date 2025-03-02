@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187;Game+Developer;Unity+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
-
+****
 ## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
 - 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
-
+****
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
@@ -46,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; object-fit: contain;">
   </div>
 </p>
-
+****
 ## ✨ Let's Connect!
 <p align="left" style="white-space: nowrap;">
   <a href="mailto:phanviethoang187@gmail.com" style="text-decoration: none;">
@@ -59,15 +59,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-📝 **Here's my CVs** <br />
-You can see my resume or download from the link below: <br />
-<a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
-<a href="" download="">MyCV-ENG.pdf (English)</a> <br />
-
-
-
-
+****
 📝 **Here's my CVs**  
 You can see my resume or download from the links below:  
 
