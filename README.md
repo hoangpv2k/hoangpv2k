@@ -39,6 +39,122 @@ You can see my resume or download from the link below: <br />
 | Draw One Part (base)             | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
 
+<div style="display: flex; gap: 20px;">
+
+  <!-- Bảng 1: Public Game Projects -->
+  <div style="flex: 1;">
+    <table>
+      <thead>
+        <tr>
+          <th>🎮 <strong>Public Game Projects</strong></th>
+          <th>🌐 <strong>Link</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Gangster City: Urban Crime</td>
+          <td><a href="https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime">Google Play</a></td>
+        </tr>
+        <tr>
+          <td>Mrs Lemon School: Scary mod</td>
+          <td><a href="https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod">Google Play</a></td>
+        </tr>
+        <tr>
+          <td>Alphabet Run: Letter Go</td>
+          <td><a href="https://apps.apple.com/us/app/letter-race-3d-run-merge/id1659174430">App Store</a></td>
+        </tr>
+        <tr>
+          <td>Unscrew Color Jam</td>
+          <td><a href="https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle">Google Play</a></td>
+        </tr>
+        <tr>
+          <td>Unscrew Color Jam</td>
+          <td><a href="https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi">App Store</a></td>
+        </tr>
+        <tr>
+          <td>Match Master 3D</td>
+          <td><a href="https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple">Google Play</a></td>
+        </tr>
+        <tr>
+          <td>Hexa Stack</td>
+          <td><a href="https://play.google.com/store/apps/details?id=com.sg.hexastack">Google Play</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Bảng 2: Other Games -->
+  <div style="flex: 1;">
+    <table>
+      <thead>
+        <tr>
+          <th>🎮 <strong>Other Games</strong></th>
+          <th>🌐 <strong>Status</strong></th>
+          <th>🛠️ <strong>Base Gameplay</strong></th>
+          <th>📂 <strong>Repository</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Water Sort Puzzle</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Triple Tile</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Pull The Pin (Home Pin)</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Melon Fruit Game</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Bus Jam</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Good Sorting (base)</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Delete One Part (base)</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Draw One Part (base)</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td>Color Block Jam</td>
+          <td>Coming Soon</td>
+          <td>✅ Completed</td>
+          <td><a href="#">Link</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
 ## 🛠️ Tools & Technologies
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
