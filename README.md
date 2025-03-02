@@ -10,13 +10,6 @@
 - 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
 
-<!--
-📝 **Here's my CVs** <br />
-You can see my resume or download from the link below: <br />
-<a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
-<a href="" download="">MyCV-ENG.pdf (English)</a> <br />
--->
-
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
@@ -58,3 +51,7 @@ You can see my resume or download from the link below: <br />
 - 📧 Email: [phanviethoang187@gmail.com](mailto:phanviethoang187@gmail.com)
 - 🌐 [YouTube Channel](https://www.youtube.com/@viethoangphan3575)
 - 💬 Feel free to reach out for game collaborations!
+📝 **Here's my CVs** <br />
+You can see my resume or download from the link below: <br />
+<a href="" download="">MyCV-VN.pdf (Vietnamese)</a> <br />
+<a href="" download="">MyCV-ENG.pdf (English)</a> <br />
