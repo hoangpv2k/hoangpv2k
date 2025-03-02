@@ -59,14 +59,14 @@ You can see my resume or download from the link below: <br />
 
 
 ## ✨ Let's Connect!
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="mailto:phanviethoang187@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.youtube.com/@viethoangphan3575">
+  </a><!--
+  --><a href="https://www.youtube.com/@viethoangphan3575">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://github.com/hoangpv2k">
+  </a><!--
+  --><a href="https://github.com/hoangpv2k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
