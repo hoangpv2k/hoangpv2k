@@ -3,18 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187;Game+Developer" alt="Typing SVG" />
   </a>
 </h1>
-
+---
 ## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
 - 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
-
-
+---
 ![GitHub Snake](https://raw.githubusercontent.com/hoangpv2k/hoangpv2k/main/dist/snake.svg)
-
-
-
+---
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
