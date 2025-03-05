@@ -1,0 +1,27 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Chạy hàng ngày lúc 00:00 UTC
+  workflow_dispatch:     # Cho phép chạy thủ công
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      - name: Commit and Push Snake SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Updated Snake Contribution Graph 🐍" || exit 0
+          git push
