@@ -18,10 +18,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Commit and Push Snake SVG
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add dist/snake.svg
-          git commit -m "Updated Snake Contribution Graph 🐍" || exit 0
-          git push
+- name: Push new snake.svg to the output branch
+  run: |
+    git config --global user.name "github-actions"
+    git config --global user.email "github-actions@github.com"
+    git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hoangpv2k/hoangpv2k.git
+    git add dist/snake.svg
+    git commit -m "Updated Snake Contribution Graph 🐍"
+    git push origin main
+
