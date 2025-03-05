@@ -10,6 +10,10 @@
 - 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
 
+### 🐍 Snake Game Contribution Graph
+![GitHub Snake](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/dist/snake.svg)
+
+
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
