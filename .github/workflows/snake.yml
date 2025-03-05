@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hoangpv2k/hoangpv2k.git
           git add dist/snake.svg
           git commit -m "Updated Snake Contribution Graph 🐍" || echo "No changes to commit"
           git push origin main
