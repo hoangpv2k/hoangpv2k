@@ -11,7 +11,7 @@
 - 💬 Ask me about Unity, C#, or game mechanics!
 
 ### 🐍 Snake Game Contribution Graph
-![GitHub Snake](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/dist/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/<hoangpv2k>/<hoangpv2k>/main/dist/snake.svg)
 
 
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
