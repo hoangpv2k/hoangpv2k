@@ -27,13 +27,13 @@
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
 | Water Sort Puzzle                | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Triple Tile                      | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Triple Tile(Triple Sort)         | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Pull The Pin (Home Pin)          | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Melon Fruit Game                 | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Bus Jam                          | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Good Sorting (base)              | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Delete One Part (base)           | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Draw One Part (base)             | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Good Sorting                     | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Delete One Part                  | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Draw One Part                    | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
 
 
