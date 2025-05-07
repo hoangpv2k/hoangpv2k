@@ -16,13 +16,14 @@
 
 | 🎮 **Public Game Projects**       | 🌐 **Link**                                                                                   |
 |----------------------------------|---------------------------------------------------------------------------------------------|
+| Hexa Stack                       | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack)                 |
+| Brick Away - Block Jam            | [Google Play](https://play.google.com/store/apps/details?id=com.sg.brick.block.away)                 |
+| Unscrew Color Jam               | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle) |
+| Unscrew Color Jam               | [App Store](https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi)              |
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
 | Mrs Lemon School: Scary mod      | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod)    |
 | Alphabet Run: Letter Go          | [App Store](https://apps.apple.com/us/app/letter-race-3d-run-merge/id1659174430)              |
-| Unscrew Color Jam               | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle) |
-| Unscrew Color Jam               | [App Store](https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi)              |
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
-| Hexa Stack                       | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack)                 |
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
@@ -35,7 +36,6 @@
 | Delete One Part                  | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Draw One Part                    | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Brick Jam                        | Coming Soon     | ✅ Completed            | [Link](#)           |
 
 
 ## 🛠️ Tools & Technologies
