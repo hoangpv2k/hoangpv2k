@@ -45,15 +45,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ****
 
-## 📊 GitHub Stats
-<p align="center">
-  <div style="display: inline-flex; justify-content: center; align-items: center; gap: 40px; width: 100%; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoangpv2k&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; object-fit: contain;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangpv2k&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; object-fit: contain;">
-  </div>
-</p>
-
-
 ## ✨ Let's Connect!
 <p align="left" style="white-space: nowrap;">
   <a href="mailto:phanviethoang187@gmail.com" style="text-decoration: none;">
