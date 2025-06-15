@@ -37,6 +37,7 @@
 | Delete One Part                  | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Draw One Part                    | Coming Soon     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Tap Away                         | Coming Soon     | ✅ Completed            | [Link](#)           |
 
 
 ## 🛠️ Tools & Technologies
