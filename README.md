@@ -28,16 +28,16 @@
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
-| Water Sort Puzzle                | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Triple Tile(Triple Sort)         | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Pull The Pin (Home Pin)          | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Melon Fruit Game                 | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Bus Jam                          | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Good Sorting                     | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Delete One Part                  | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Draw One Part                    | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Color Block Jam                  | Coming Soon     | ✅ Completed            | [Link](#)           |
-| Tap Away                         | Coming Soon     | ✅ Completed            | [Link](#)           |
+| Water Sort Puzzle                | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Triple Tile(Triple Sort)         |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Pull The Pin (Home Pin)          | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Melon Fruit Game                 | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Bus Jam                          |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Good Sorting                     |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Delete One Part                  |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Draw One Part                    | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Color Block Jam                  | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Tap Away                         | ✅ Completed     | ✅ Completed            | [Link](#)           |
 
 
 ## 🛠️ Tools & Technologies
