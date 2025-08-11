@@ -25,6 +25,7 @@
 | Alphabet Run: Letter Go          | [App Store](https://apps.apple.com/us/app/letter-race-3d-run-merge/id1659174430)              |
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
 | Fusion War: Legacy of Legends      | [Google Play](https://play.google.com/store/apps/details?id=com.fusionwar.lol) |
+| Cake Merge                      | [Google Play](https://play.google.com/store/apps/details?id=com.cscmobi.merge.city&hl=vi) |
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
