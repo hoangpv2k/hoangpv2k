@@ -26,6 +26,7 @@
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
 | Fusion War: Legacy of Legends      | [Google Play](https://play.google.com/store/apps/details?id=com.fusionwar.lol) |
 | Cake Merge                      | [Google Play]() |
+| Angry Block                      | [Google Play]() |
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
