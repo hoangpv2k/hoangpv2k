@@ -37,8 +37,7 @@
 | Melon Fruit Game                 | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Bus Jam                          |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Good Sorting                     |✅ Completed      | ✅ Completed            | [Link](#)           |
-| Delete One Part                  |✅ Completed      | ✅ Completed            | [Link](#)           |
-| Draw One Part                    | ✅ Completed     | ✅ Completed            | [Link](#)           |
+| Delete/Draw One Part             |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Tap Away                         | ✅ Completed     | ✅ Completed            | [Link](#)           |
 
