@@ -27,6 +27,7 @@
 | Fusion War: Legacy of Legends      | [Google Play](https://play.google.com/store/apps/details?id=com.fusionwar.lol) |
 | Cake Merge                      | [Google Play]() |
 | Angry Block                      | [Google Play]() |
+| Hole People                       | [Google Play]() |
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
