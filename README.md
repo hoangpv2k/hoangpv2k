@@ -18,7 +18,7 @@
 |----------------------------------|---------------------------------------------------------------------------------------------|
 | BBQ Sort                       | [Google Play](https://play.google.com/store/apps/)                 |
 | Hexa Stack                       | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack)                 |
-| Brick Away - Block Jam            | [Google Play](https://play.google.com/store/apps/details?id=com.sg.brick.block.away) == [Google Play](https://apkpure.com/brick-away-block-jam/com.sg.brick.block.away)|
+| Brick Away - Block Jam            | [Google Play](https://apkpure.com/brick-away-block-jam/com.sg.brick.block.away)|
 | Unscrew Color Jam               | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle) |
 | Unscrew Color Jam               | [App Store](https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi)              |
 | Gangster City: Urban Crime       | [Google Play](https://apkpure.net/vn/gangster-city-urban-crime/negaxy.gangster.city.urban.crime) |
