@@ -19,13 +19,11 @@
 | BBQ Sort                       | [Google Play](https://play.google.com/store/apps/)                 |
 | Hexa Stack                       | [Google Play](https://play.google.com/store/apps/details?id=com.sg.hexastack)                 |
 | Brick Away - Block Jam            | [Google Play](https://apkpure.com/brick-away-block-jam/com.sg.brick.block.away)|
-| Unscrew Color Jam               | [Google Play](https://play.google.com/store/apps/details?id=com.sg.screw.nuts.bolts.unscrew.color.jam.puzzle) |
 | Unscrew Color Jam               | [App Store](https://apps.apple.com/vn/app/unscrew-color-jam/id6587564939?l=vi)              |
 | Mrs Lemon School: Scary mod      | [Google Play](https://play.google.com/store/apps/details?id=ngx.mrs.lemon.school.scary.mod)    |
 | Alphabet Run: Letter Go          | [App Store](https://apps.apple.com/us/app/letter-race-3d-run-merge/id1659174430)              |
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
 | Fusion War: Legacy of Legends      | [Google Play](https://play.google.com/store/apps/details?id=com.fusionwar.lol) |
-| Cake Merge                      | [Google Play]() |
 | Angry Block                      | [Google Play]() |
 | Hole People                       | [Google Play]() |
 
@@ -35,7 +33,6 @@
 | Triple Tile(Triple Sort)         |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Pull The Pin (Home Pin)          | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Melon Fruit Game                 | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Bus Jam                          |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Good Sorting                     |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Delete/Draw One Part             |✅ Completed      | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | ✅ Completed     | ✅ Completed            | [Link](#)           |
