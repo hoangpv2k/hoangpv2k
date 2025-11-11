@@ -1,9 +1,3 @@
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hello!;I'm+Hoangpv;aka+lus187;Game+Developer" alt="Typing SVG" />
-  </a>
-</h1>
-
 ## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
@@ -30,11 +24,10 @@
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
 | Water Sort Puzzle                | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Triple Tile(Triple Sort)         |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Triple Tile(Triple Sort)         | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Pull The Pin (Home Pin)          | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Melon Fruit Game                 | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Good Sorting                     |✅ Completed      | ✅ Completed            | [Link](#)           |
-| Delete/Draw One Part             |✅ Completed      | ✅ Completed            | [Link](#)           |
+| Good Sorting                     | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Tap Away                         | ✅ Completed     | ✅ Completed            | [Link](#)           |
 
@@ -61,11 +54,11 @@
 
 📝 **Here's my CVs**  
 You can see my resume or download from the links below:  
-<p align="left">
+<!-- <p align="left">
   <a href="path-to-your-cv-vn.pdf" download>
     <img src="https://img.shields.io/badge/Download_CV_VN-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (Vietnamese)" />
   </a>
   <a href="path-to-your-cv-eng.pdf" download>
     <img src="https://img.shields.io/badge/Download_CV_ENG-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (English)" />
   </a>
-</p>
+</p> -->
