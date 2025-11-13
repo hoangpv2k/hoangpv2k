@@ -1,7 +1,6 @@
 ## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
-- 🌎 Based in **Vietnam**
 - 💬 Ask me about Unity, C#, or game mechanics!
 
 --- 
@@ -18,16 +17,13 @@
 | Match Master 3D                  | [Google Play](https://apkpure.net/vn/match-master-3d-matching-game/com.sg.match3d.master.matchtriple) |
 | Fusion War: Legacy of Legends      | [Google Play](https://play.google.com/store/apps/details?id=com.fusionwar.lol) |
 | Hole People                       |  [Google Play](https://play.google.com/store/apps/)       |
+| Tap Away                       |  [Google Play](https://play.google.com/store/apps/)       |
 
 | 🎮 **Other Games**               | 🌐 **Status**   | 🛠️ **Base Gameplay**    | 📂 **Repository**   |
 |----------------------------------|-----------------|-------------------------|---------------------|
-| Water Sort Puzzle                | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Triple Tile(Triple Sort)         | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Pull The Pin (Home Pin)          | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Melon Fruit Game                 | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Good Sorting                     | ✅ Completed     | ✅ Completed            | [Link](#)           |
 | Color Block Jam                  | ✅ Completed     | ✅ Completed            | [Link](#)           |
-| Tap Away                         | ✅ Completed     | ✅ Completed            | [Link](#)           |
 
 
 ## 🛠️ Tools & Technologies
@@ -50,9 +46,9 @@
 </p>
 
 
-📝 **Here's my CVs**  
+<!--📝 **Here's my CVs**  
 You can see my resume or download from the links below:  
-<!-- <p align="left">
+ <p align="left">
   <a href="path-to-your-cv-vn.pdf" download>
     <img src="https://img.shields.io/badge/Download_CV_VN-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (Vietnamese)" />
   </a>
