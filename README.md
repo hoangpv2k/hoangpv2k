@@ -1,5 +1,4 @@
-
-<!--## 🚀 Welcome to My GitHub Profile!
+  <!--## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
 - 💬 Ask me about Unity, C#, or game mechanics!
@@ -33,28 +32,20 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ****
 
+
+  <!--
 ## ✨ Let's Connect!
 <p align="left" style="white-space: nowrap;">
   <a href="mailto:phanviethoang187@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a><!--
-  --><a href="https://www.youtube.com/@viethoangphan3575" style="text-decoration: none;">
+  </a>
+  <a href="https://www.youtube.com/@viethoangphan3575" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 
-  <!--
+
   <a href="https://github.com/hoangpv2k" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 -->
 
-<!--📝 **Here's my CVs**  
-You can see my resume or download from the links below:  
- <p align="left">
-  <a href="path-to-your-cv-vn.pdf" download>
-    <img src="https://img.shields.io/badge/Download_CV_VN-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (Vietnamese)" />
-  </a>
-  <a href="path-to-your-cv-eng.pdf" download>
-    <img src="https://img.shields.io/badge/Download_CV_ENG-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV (English)" />
-  </a>
-</p> -->
