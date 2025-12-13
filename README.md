@@ -1,4 +1,4 @@
-  <!--## 🚀 Welcome to My GitHub Profile!
+## 🚀 Welcome to My GitHub Profile!
 - 🧑‍💻 I'm a **Game Developer**
 - 🎨 Passionate about creating **fun and engaging games**
 - 💬 Ask me about Unity, C#, or game mechanics!
